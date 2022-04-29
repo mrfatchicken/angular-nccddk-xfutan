@@ -1,3 +1,3 @@
 # angular-nccddk-xfutan
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-nccddk-xfutan)
+[Edit on StackBlitz ⚡️](https://stackbnglitz.com/edit/angular-nccddk-xfutan)
